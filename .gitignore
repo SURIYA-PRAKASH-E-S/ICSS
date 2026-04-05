@@ -115,7 +115,6 @@ Thumbs.db
 
 # Model files (for ML projects)
 *.h5
-*.pt
 *.pth
 *.ckpt
 *.onnx
