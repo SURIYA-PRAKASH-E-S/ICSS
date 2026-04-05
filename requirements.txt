@@ -1,0 +1,16 @@
+streamlit
+streamlit-webrtc
+opencv-python
+deep-sort-realtime
+ultralytics
+numpy
+av
+duckdb
+plotly
+pandas
+torch
+torchvision
+scipy
+scikit-learn
+matplotlib
+seaborn
